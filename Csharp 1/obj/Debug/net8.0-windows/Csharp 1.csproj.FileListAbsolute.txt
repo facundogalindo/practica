@@ -1,0 +1,16 @@
+C:\Users\Facundo\source\repos\Csharp 1\Csharp 1\bin\Debug\net8.0-windows\Csharp 1.exe
+C:\Users\Facundo\source\repos\Csharp 1\Csharp 1\bin\Debug\net8.0-windows\Csharp 1.deps.json
+C:\Users\Facundo\source\repos\Csharp 1\Csharp 1\bin\Debug\net8.0-windows\Csharp 1.runtimeconfig.json
+C:\Users\Facundo\source\repos\Csharp 1\Csharp 1\bin\Debug\net8.0-windows\Csharp 1.dll
+C:\Users\Facundo\source\repos\Csharp 1\Csharp 1\bin\Debug\net8.0-windows\Csharp 1.pdb
+C:\Users\Facundo\source\repos\Csharp 1\Csharp 1\obj\Debug\net8.0-windows\Csharp_1.Form1.resources
+C:\Users\Facundo\source\repos\Csharp 1\Csharp 1\obj\Debug\net8.0-windows\Csharp 1.csproj.GenerateResource.cache
+C:\Users\Facundo\source\repos\Csharp 1\Csharp 1\obj\Debug\net8.0-windows\Csharp 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Facundo\source\repos\Csharp 1\Csharp 1\obj\Debug\net8.0-windows\Csharp 1.AssemblyInfoInputs.cache
+C:\Users\Facundo\source\repos\Csharp 1\Csharp 1\obj\Debug\net8.0-windows\Csharp 1.AssemblyInfo.cs
+C:\Users\Facundo\source\repos\Csharp 1\Csharp 1\obj\Debug\net8.0-windows\Csharp 1.csproj.CoreCompileInputs.cache
+C:\Users\Facundo\source\repos\Csharp 1\Csharp 1\obj\Debug\net8.0-windows\Csharp 1.dll
+C:\Users\Facundo\source\repos\Csharp 1\Csharp 1\obj\Debug\net8.0-windows\refint\Csharp 1.dll
+C:\Users\Facundo\source\repos\Csharp 1\Csharp 1\obj\Debug\net8.0-windows\Csharp 1.pdb
+C:\Users\Facundo\source\repos\Csharp 1\Csharp 1\obj\Debug\net8.0-windows\Csharp 1.genruntimeconfig.cache
+C:\Users\Facundo\source\repos\Csharp 1\Csharp 1\obj\Debug\net8.0-windows\ref\Csharp 1.dll
