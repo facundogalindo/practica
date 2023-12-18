@@ -9,10 +9,8 @@ namespace Csharp_1
         [STAThread]
         static void Main()
         {
+           
             
-            string Nombre = "Facundo";
-            int num = 1;
-            MessageBox.Show(Nombre);
             
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.

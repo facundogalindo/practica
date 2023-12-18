@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Facundo\\source\\repos\\Csharp 1\\Csharp 1\\Csharp 1.csproj": {}
+    "F:\\source\\repos\\Csharp 1\\Csharp 1\\Csharp 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Facundo\\source\\repos\\Csharp 1\\Csharp 1\\Csharp 1.csproj": {
+    "F:\\source\\repos\\Csharp 1\\Csharp 1\\Csharp 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Facundo\\source\\repos\\Csharp 1\\Csharp 1\\Csharp 1.csproj",
+        "projectUniqueName": "F:\\source\\repos\\Csharp 1\\Csharp 1\\Csharp 1.csproj",
         "projectName": "Csharp 1",
-        "projectPath": "C:\\Users\\Facundo\\source\\repos\\Csharp 1\\Csharp 1\\Csharp 1.csproj",
+        "projectPath": "F:\\source\\repos\\Csharp 1\\Csharp 1\\Csharp 1.csproj",
         "packagesPath": "C:\\Users\\Facundo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Facundo\\source\\repos\\Csharp 1\\Csharp 1\\obj\\",
+        "outputPath": "F:\\source\\repos\\Csharp 1\\Csharp 1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Facundo\\AppData\\Roaming\\NuGet\\NuGet.Config",

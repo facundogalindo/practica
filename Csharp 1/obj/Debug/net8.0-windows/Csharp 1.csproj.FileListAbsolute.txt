@@ -15,3 +15,20 @@ C:\Users\Facundo\source\repos\Csharp 1\Csharp 1\obj\Debug\net8.0-windows\Csharp 
 C:\Users\Facundo\source\repos\Csharp 1\Csharp 1\obj\Debug\net8.0-windows\Csharp 1.genruntimeconfig.cache
 C:\Users\Facundo\source\repos\Csharp 1\Csharp 1\obj\Debug\net8.0-windows\ref\Csharp 1.dll
 C:\Users\Facundo\source\repos\Csharp 1\Csharp 1\obj\Debug\net8.0-windows\Csharp 1.sourcelink.json
+F:\source\repos\Csharp 1\Csharp 1\bin\Debug\net8.0-windows\Csharp 1.exe
+F:\source\repos\Csharp 1\Csharp 1\bin\Debug\net8.0-windows\Csharp 1.deps.json
+F:\source\repos\Csharp 1\Csharp 1\bin\Debug\net8.0-windows\Csharp 1.runtimeconfig.json
+F:\source\repos\Csharp 1\Csharp 1\bin\Debug\net8.0-windows\Csharp 1.dll
+F:\source\repos\Csharp 1\Csharp 1\bin\Debug\net8.0-windows\Csharp 1.pdb
+F:\source\repos\Csharp 1\Csharp 1\obj\Debug\net8.0-windows\Csharp_1.Form1.resources
+F:\source\repos\Csharp 1\Csharp 1\obj\Debug\net8.0-windows\Csharp 1.csproj.GenerateResource.cache
+F:\source\repos\Csharp 1\Csharp 1\obj\Debug\net8.0-windows\Csharp 1.GeneratedMSBuildEditorConfig.editorconfig
+F:\source\repos\Csharp 1\Csharp 1\obj\Debug\net8.0-windows\Csharp 1.AssemblyInfoInputs.cache
+F:\source\repos\Csharp 1\Csharp 1\obj\Debug\net8.0-windows\Csharp 1.AssemblyInfo.cs
+F:\source\repos\Csharp 1\Csharp 1\obj\Debug\net8.0-windows\Csharp 1.csproj.CoreCompileInputs.cache
+F:\source\repos\Csharp 1\Csharp 1\obj\Debug\net8.0-windows\Csharp 1.sourcelink.json
+F:\source\repos\Csharp 1\Csharp 1\obj\Debug\net8.0-windows\Csharp 1.dll
+F:\source\repos\Csharp 1\Csharp 1\obj\Debug\net8.0-windows\refint\Csharp 1.dll
+F:\source\repos\Csharp 1\Csharp 1\obj\Debug\net8.0-windows\Csharp 1.pdb
+F:\source\repos\Csharp 1\Csharp 1\obj\Debug\net8.0-windows\Csharp 1.genruntimeconfig.cache
+F:\source\repos\Csharp 1\Csharp 1\obj\Debug\net8.0-windows\ref\Csharp 1.dll
