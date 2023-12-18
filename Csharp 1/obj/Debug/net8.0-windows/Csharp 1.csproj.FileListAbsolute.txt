@@ -14,3 +14,4 @@ C:\Users\Facundo\source\repos\Csharp 1\Csharp 1\obj\Debug\net8.0-windows\refint\
 C:\Users\Facundo\source\repos\Csharp 1\Csharp 1\obj\Debug\net8.0-windows\Csharp 1.pdb
 C:\Users\Facundo\source\repos\Csharp 1\Csharp 1\obj\Debug\net8.0-windows\Csharp 1.genruntimeconfig.cache
 C:\Users\Facundo\source\repos\Csharp 1\Csharp 1\obj\Debug\net8.0-windows\ref\Csharp 1.dll
+C:\Users\Facundo\source\repos\Csharp 1\Csharp 1\obj\Debug\net8.0-windows\Csharp 1.sourcelink.json
